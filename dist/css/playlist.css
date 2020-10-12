@@ -1,0 +1,46 @@
+body {
+  font-size: 14px;
+}
+.textali_right {
+  text-align: right;
+}
+.refill_minus {
+  background-color: #ff0000;
+}
+.refill_plus {
+  background-color: #00ff00;
+}
+.name_css {
+  background-color: #b7e1cd;
+}
+th {
+  background-color: #aacf92;
+  text-align: center;
+}
+.box-header {
+  color: #fff;
+  text-align: center;
+  background-color: black;
+}
+
+.content-header {
+  text-align: center;
+  background-color: black !important;
+  padding: 15px 15px 15px 15px !important;
+}
+.content-header > h1 {
+  color: #0f0;
+}
+.noExport {
+  text-align: center;
+}
+small {
+  color: #fff !important;
+}
+.pull-right {
+  font-size: 20px;
+}
+td {
+  word-break:break-all;
+table-layout:fixed;
+}
